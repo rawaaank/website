@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  get 'welcome/gallery-2'
+
+  get 'welcome/gallery-3'
+
+  get 'welcome/gallery-4'
+
+  get 'welcome/robotics'
+
   get 'welcome/gallery'
 
   get 'welcome/index'
